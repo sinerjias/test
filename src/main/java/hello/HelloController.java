@@ -8,7 +8,7 @@ public class HelloController {
     
     @RequestMapping("/")
     public String index() {
-        return "Spring boot deneme projesi... (Kubernetes)";
+        return "yeni v2 spring boot deneme";
     }
     
 }
